@@ -33,6 +33,11 @@
     *   **QRコード作成**: 「QRコード」メニューから「QRコード作成」を選択すると、"t氏名"シートのD列にQRコードが表示されます。
     *   **集計準備**: 「QRコード」メニューから「集計準備」を選択すると、"tQR読込み"シートから"集計"シートへデータがコピーされます。
 
+## 関連リソース
+
+*   **スプレッドシート テンプレート**: [こちらをクリックしてコピーを作成](https://docs.google.com/spreadsheets/d/1NpsZOMLb7FnpNNZBbctQn4IyTRYV7zLb-lWJx5OvtGQ/copy)
+*   **解説動画 (YouTube)**: [視聴する](https://youtu.be/LZ3yVW1OHfk?si=L5KllhINA9Yfyaid)
+
 ## 注意事項
 
 *   QRコードの生成には外部API ([QR Server API](https://goqr.me/api/)) を使用しています。APIの仕様変更やサービス停止により、機能が利用できなくなる可能性があります。
